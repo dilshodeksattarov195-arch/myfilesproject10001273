@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingvync",
+        "uuid": 4591711,
+        "checksum": "p10p0a"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
